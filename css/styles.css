@@ -21,6 +21,14 @@ body {
   text-decoration: none;
 }
 
+.header-logo-part {
+  color: #2e2f42;
+}
+
+.footer-logo-part {
+  color: #f4f4fd;
+}
+
 .navigation-link {
   font-size: 16px;
   line-height: 1.5;
@@ -58,6 +66,10 @@ body {
   background-color: #f4f4fd;
 }
 
+.feature-section {
+  background-color: #ffffff;
+}
+
 .team-item {
   background-color: #ffffff;
 }
@@ -76,6 +88,7 @@ body {
   color: #2e2f42;
 }
 
+.feature-item-title,
 .card-title {
   font-size: 20px;
   line-height: 1.2;
@@ -84,6 +97,7 @@ body {
   color: #2e2f42;
 }
 
+.feature-item-text,
 .card-text {
   font-size: 16px;
   line-height: 1.5;
